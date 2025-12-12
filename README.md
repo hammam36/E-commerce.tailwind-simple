@@ -1,2 +1,3 @@
-Full screen view
-screenshoot.png
+# Simple Ecommerce Tailwind
+
+![FullScreen Display](screenshoot.png)
